@@ -1,0 +1,5 @@
+SOURCE_REPOSITORY_URL=https://gitlab-ce.apps.rhchina-1.apac-1.rht-labs.com/haozhao/haozhao-enablement-ci-cd.git
+NAME=jenkins
+SOURCE_REPOSITORY_CONTEXT_DIR=jenkins-s2i
+SOURCE_REPOSITORY_PASSWORD=haozhao
+SOURCE_REPOSITORY_USERNAME=Pa%%w0rd1
